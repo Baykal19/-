@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Супер Соник</title> 
+
+</head>
+
+<style>
+h1 {
+text-align: center;
+color: rgb (0, 128, 0) :
+}
+</style>
+
+<h1>
+Название вашего сайта Супер соник
+</h1>
+
+<body>
+
+<style>
+body {
+background: rgb(224, 255, 255) url(img/fon_nebo_tochki_svet_83482_300x168);
+background-size: cover;
+}
+</style>
+
+<style>
+div {
+margin: 30px;
+}
+</style>
+
+<div style="text-align:center;">
+https://static1.freebitco.in/banners
+</div>
+
+<div style="text-align:center;">
+https://static1.freebitco.in/bann
+</div>
+
+<div style="text-align:center;">
+Сюда вставляем код баннера
+</div>
+
+
+</body>
+
+</html>
